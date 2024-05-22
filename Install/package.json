@@ -6,7 +6,7 @@
 	"app_type" : "games",
 	"category" : "tools",
 	"version" : "0.0.0",
-	"repo" : "https://www.github.com/sp-modules/games-packages-tools-home",
+	"repo" : "https://github.com/sp-modules/games-packages-tools-home",
 	"class" : "Apps\\Games\\Packages\\Home",
 	"dependencies" : 
 	{
